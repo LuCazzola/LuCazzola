@@ -6,5 +6,7 @@ AI re-ontologizing power is something so exciting and sometimes frightening at t
 As someone once said, "with great power comes great responsibility" 🕷🕷🕷.
 That's why I believe as engenieers we often have an under estimated responsibility in shaping peoples' life
 
+---
+
 ![Static Badge](https://img.shields.io/badge/My%20WebSite-blue?style=for-the-badge&link=https%3A%2F%2Fwww.lucazzola.it%2F) $\leftarrow$ Checkout my portfolio !
 <div align="center"><img src="images/avatar-HI.png" width="250"></div>
