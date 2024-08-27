@@ -6,11 +6,6 @@ AI re-ontologizing power is something so exciting and sometimes frightening at t
 As someone once said, "with great power comes great responsibility" 🕷🕷🕷.
 That's why I believe as engenieers we often have an under estimated responsibility in shaping peoples' life
 
-
-<h1>The button element - Styled with CSS</h1>
-<p>Change the background color of a button with the background-color property:</p>
-
-<button class="button button1">Green</button>
-<button class="button button2">Blue</button>
+[button url="http://www.google.com"]
 
 <p align="center"><img src="images/avatar-HI.png" width="250"></p>
