@@ -9,6 +9,7 @@ That's why I believe as engenieers we often have an under estimated responsibili
 ---
 
 Checkout my portfolio !
+<br>
 ![Static Badge](https://img.shields.io/badge/My%20WebSite-blue?style=for-the-badge&link=https%3A%2F%2Fwww.lucazzola.it%2F)
 
 <p align="center"><img src="images/avatar-HI.png" width="250"></p>
