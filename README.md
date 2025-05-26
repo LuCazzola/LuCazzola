@@ -8,5 +8,5 @@ That's why I believe as engenieers we often have an under estimated responsibili
 
 ---
 
-![Static Badge](https://img.shields.io/badge/My%20WebSite-blue?style=for-the-badge&link=https%3A%2F%2Fwww.lucazzola.it%2F) $\leftarrow$ Checkout my portfolio !
+$\rightarrow$ Checkout my [**Portfolio**](https://lucazzola.github.io/) !
 <div align="center"><img src="images/avatar-HI.png" width="250"></div>
